@@ -11,13 +11,15 @@ This app presents a 5 day weather forecast to prepare for the upcoming days.
 
 
  #### GitHub Repository
-
+https://didier-d-crypto.github.io/w.d/
 
 ## How it works
 Insert city of choice location into search tab. With this information, Weather for that specific city will present you with the exact forecast for the day, within 5-days. 
 Plan accordingly!
 
- 
+
+
+
 
  ![Screenshot](assets/images/weatherdashboard.png)
 
